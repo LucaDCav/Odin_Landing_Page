@@ -63,3 +63,30 @@ button {
     border-radius: 8px;
     border: none;
 }
+
+.h-two {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin: 50px;
+}
+
+.boxes {
+    color: #1f2937;
+    font-size: 18px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    border: 4px solid #3882f6;
+    border-radius: 10px;
+}
+
+.section-two {
+    margin: 50px;
+    text-align: center;
+}
