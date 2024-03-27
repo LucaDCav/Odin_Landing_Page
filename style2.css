@@ -109,3 +109,33 @@ button {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.section-four {
+    padding: 88px 111px;
+}
+
+.call-action {
+    background: #3882f6;
+    border-radius: 4px;
+    color: #f9faf8;
+    display: flex;
+    padding: 33px;
+    justify-content: space-around;
+}
+
+.call-action-button {
+    background: #3882f6;
+    color: #f9faf8;
+    padding: 5px 20px;
+    border-radius: 8px;
+    border: 2px solid #f9faf8;
+}
+
+.footer {
+    background: #1f2937;
+    color: #f9faf8;
+    align-items: flex-end;
+    padding: 20px;
+    font-size: 9px;
+    text-align: center;
+}
